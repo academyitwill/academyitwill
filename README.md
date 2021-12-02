@@ -1,3 +1,18 @@
+|__제목__|
+|------|
+|내용
+
+__bold__
+
+- disk1
+- disk2
+* *disk1
+* *disk2
+
+
+
+---
+
 - 👋 Hi, I’m @academyitwill
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
