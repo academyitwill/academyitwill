@@ -6,8 +6,8 @@ __bold__
 
 - disk1
 - disk2
-* *disk1
-* *disk2
+* disk1
+* disk2
 * sdsdsd  
 
 hello
