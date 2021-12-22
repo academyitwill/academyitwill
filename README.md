@@ -28,6 +28,7 @@ world
 
 <!---
 academyitwill/academyitwill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.sddfsdf
+You can click the Preview link to take a look at your changes.[학생정보출력.txt](https://github.com/academyitwill/academyitwill/files/7765777/default.txt)
+
 --->
 
